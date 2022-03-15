@@ -1,4 +1,4 @@
-# Project Reviews for LiveCodingTurkey Twitch Streams
+![code_review_1](https://user-images.githubusercontent.com/1237982/158324535-80f48064-6d18-4baf-a759-5aa5bf4eadc7.jpg)
 
 Do you have some architecture design, code base related to one of #java #go #kubernetes #microservices #cloud #distributed systems to be reviewed? Let's do it in live session! 
 
