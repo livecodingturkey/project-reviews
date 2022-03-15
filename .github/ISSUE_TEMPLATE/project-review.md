@@ -19,9 +19,8 @@ assignees: huseyinbabal
 - [ ] Go
 - [ ] Microservices
 - [ ] Kubernetes
-- [ ] AWS
-- [ ] Azure
-- [ ] GCP
+- [ ] Distributed Systems
+- [ ] Cloud
 
 **I agree there is no confidential data in this project that can violate the rules of my company.**
 - [ ] Yes
